@@ -1,0 +1,34 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="1" tvg-id="Telecanal.cl" tvg-name="Telecanal.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png" group-title="NACIONALES",Telecanal
+http://45.181.122.100:8000/play/a06e/index.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="LaRed.cl" tvg-name="LaRed.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png" group-title="NACIONALES",La Red
+http://45.232.210.1:47000/play/laredhd
+#EXTINF:-1 tvg-chno="3" tvg-id="TVPlus.cl" tvg-name="TVPlus.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="NACIONALES",TV+
+http://45.232.210.1:47000/play/a058
+#EXTINF:-1 tvg-chno="4" tvg-id="TVN.cl" tvg-name="TVN.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TVN2020.svg/1920px-TVN2020.svg.png" group-title="NACIONALES",TVN
+http://45.232.210.1:47000/play/a06r
+#EXTINF:-1 tvg-chno="5" tvg-id="Mega.cl" tvg-name="Mega.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Mega_Chile_2020.png" group-title="NACIONALES",Mega
+http://45.232.210.1:47000/play/a08g
+#EXTINF:-1 tvg-chno="6" tvg-id="Chilevision.cl" tvg-name="Chilevision.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Chilevisi%C3%B3n.svg/1920px-Chilevisi%C3%B3n.svg.png" group-title="NACIONALES",Chilevisión
+http://45.232.210.1:47000/play/a08n
+#EXTINF:-1 tvg-chno="7" tvg-id="Canal13.cl" tvg-name="Canal13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logotipo_de_Canal_13.svg/1280px-Logotipo_de_Canal_13.svg.png" group-title="NACIONALES",Canal 13
+http://45.232.210.1:47000/play/a07a
+#EXTINF:-1 tvg-chno="8" tvg-id="CNNChile.cl" tvg-name="CNNChile.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/512px-CNN_Chile_logo_2017.svg.png" group-title="NACIONALES",CNN Chile
+http://45.232.210.1:47000/play/cnnchilehd
+#EXTINF:-1 tvg-chno="9" tvg-id="TVN24.cl" tvg-name="TVN24.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/1920px-Logo_24HorasTVN.svg.png" group-title="NACIONALES",Canal 24 Horas
+http://45.232.210.1:47000/play/a07d
+#EXTINF:-1 tvg-chno="10" tvg-id="TNTSports1.cl" tvg-name="TNTSports1.cl" tvg-logo="https://i.imgur.com/uvZnsAy.png" group-title="DEPORTES",TNT Sports HD
+http://45.232.210.1:47000/play/cdfhd
+#EXTINF:-1 tvg-chno="11" tvg-id="TNTSports3.cl" tvg-name="TNTSports3.cl" tvg-logo="https://i.imgur.com/XgjZPy3.png" group-title="DEPORTES",TNT Sports 3
+http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-chno="12" tvg-id="" tvg-name="ESPN (Chile)" tvg-logo="https://i.imgur.com/2WODtEc.png" group-title="DEPORTES",ESPN (Chile)
+http://45.232.210.1:47000/play/a0ax
+#EXTINF:-1 tvg-chno="13" tvg-id="ESPN2.ar" tvg-name="ESPN2.ar" tvg-logo="https://i.imgur.com/2WODtEc.png" group-title="DEPORTES",ESPN (Argentina)
+http://45.5.149.104:8000/play/a1au/index.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="ESPN.co" tvg-name="ESPN.co" tvg-logo="https://i.imgur.com/2WODtEc.png" group-title="DEPORTES",ESPN (Perú)
+http://45.181.121.57:8111/play/212
+#EXTINF:-1 tvg-chno="15" tvg-id="ESPN2LatinAmerica.pa" tvg-name="ESPN2LatinAmerica.pa" tvg-logo="https://i.imgur.com/2WODtEc.png" group-title="DEPORTES",ESPN (Centroamérica)
+http://190.108.87.149:8000/play/a062/index.m3u8
+
